@@ -11,3 +11,5 @@
 	运行：pip install jupyter notebook
 
 	下载完成后：在本地路径下运行：jupyter notebook 会在本地打开一个网页然后打开zufang.ipynb
+
+![zufang](https://github.com/TomorrowLi/MarkdownImage/blob/master/zufang2.jpg?raw=true)
